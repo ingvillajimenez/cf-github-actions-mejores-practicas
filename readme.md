@@ -1,0 +1,1 @@
+[![Deploy](https://github.com/ingvillajimenez/cf-github-actions-mejores-practicas/actions/workflows/deploy.yml/badge.svg)](https://github.com/ingvillajimenez/cf-github-actions-mejores-practicas/actions/workflows/deploy.yml)
